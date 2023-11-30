@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T8zDcijUmR0l7sh/F67gii6zqRGWdhi9fKOQjHhqlkNJsfUQQQXTbKC/Ug4HB7j8M5Dc8nujmZyrD5ZnhRHiPQ==",
+  "dgSpecHash": "e2aVU+kuyyBUs+USp05kr8d+ZNNrBOO10BbMspggE5TFHW6DuItI84r4jX+7QjsFYx7nGKdelD9kPT89p7KPzA==",
   "success": true,
   "projectFilePath": "D:\\ci-cd-aspnet\\PapabearHRM\\PapabearHRM.csproj",
   "expectedPackageFiles": [
@@ -100,6 +100,7 @@
     "C:\\Users\\iraqo\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
     "C:\\Users\\iraqo\\.nuget\\packages\\microsoft.net.stringtools\\17.7.2\\microsoft.net.stringtools.17.7.2.nupkg.sha512",
     "C:\\Users\\iraqo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\iraqo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\iraqo\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.0\\microsoft.visualstudio.web.codegeneration.8.0.0.nupkg.sha512",
     "C:\\Users\\iraqo\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.0\\microsoft.visualstudio.web.codegeneration.core.8.0.0.nupkg.sha512",
     "C:\\Users\\iraqo\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\8.0.0\\microsoft.visualstudio.web.codegeneration.design.8.0.0.nupkg.sha512",

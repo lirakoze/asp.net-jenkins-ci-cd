@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PapabearHRM.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9508cb6661df8fa5439a386d8e772c86ac3b36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PapabearHRM.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PapabearHRM.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

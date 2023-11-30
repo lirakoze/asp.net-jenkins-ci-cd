@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6c804103-9e7b-488a-beab-278b946c84b8")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PapabearHRM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9508cb6661df8fa5439a386d8e772c86ac3b36")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PapabearHRM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PapabearHRM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
