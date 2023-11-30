@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PapabearHRM", "PapabearHRM.csproj", "{D0B53341-579D-43DC-9949-2713AE0000EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PapabearHRM.Tests", "..\PapabearHRM.Tests\PapabearHRM.Tests.csproj", "{F95A8616-689F-49A4-BBFA-57B2BE6D6061}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87D725A3-9140-410E-A72C-7498FCECCA84}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0B53341-579D-43DC-9949-2713AE0000EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B53341-579D-43DC-9949-2713AE0000EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B53341-579D-43DC-9949-2713AE0000EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B53341-579D-43DC-9949-2713AE0000EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95A8616-689F-49A4-BBFA-57B2BE6D6061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95A8616-689F-49A4-BBFA-57B2BE6D6061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95A8616-689F-49A4-BBFA-57B2BE6D6061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95A8616-689F-49A4-BBFA-57B2BE6D6061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D7FC4DB-20EC-4265-B9E6-555B1A40582B}
+	EndGlobalSection
+EndGlobal
