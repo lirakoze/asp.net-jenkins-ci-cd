@@ -1,14 +1,7 @@
-﻿using Microsoft.AspNetCore.Routing;
-using Moq;
+﻿using Moq;
 using PapabearHRM.Data;
 using PapabearHRM.Models;
-using PapabearHRM.Repository;
 using PapabearHRM.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PapabearHRM.Tests
 {

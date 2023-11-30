@@ -13,5 +13,6 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>PapabearHRM.Data.AppDbContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <NameOfLastUsedPublishProfile>D:\ci-cd-aspnet\PapabearHRM\Properties\PublishProfiles\JenkinsProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

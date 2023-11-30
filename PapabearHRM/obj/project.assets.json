@@ -7091,11 +7091,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\PapabearHRM\\PapabearHRM.csproj",
+      "projectUniqueName": "D:\\ci-cd-aspnet\\PapabearHRM\\PapabearHRM.csproj",
       "projectName": "PapabearHRM",
-      "projectPath": "D:\\Projects\\PapabearHRM\\PapabearHRM.csproj",
+      "projectPath": "D:\\ci-cd-aspnet\\PapabearHRM\\PapabearHRM.csproj",
       "packagesPath": "C:\\Users\\iraqo\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\PapabearHRM\\obj\\",
+      "outputPath": "D:\\ci-cd-aspnet\\PapabearHRM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
